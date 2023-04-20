@@ -1,17 +1,35 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) {
+    header {
+    height: 200px;
+    }
+
+    #cabe > h1 {
+        padding-top: 3vw;
+    }
+
+    #intr {
+        font-size: 1.5vw;
+        height: 200px;
+        }
+
+    #intr p {
+        padding-top: 7vw;
+    }
+
     #tipo {
         display: flex;
+    }
+
+    #tipo h2 {
+        padding-top: 30px;
     }
 
     #trad, #dome, #mini {
         width: 33vw;
     }
 
-    #intr {
-    font-size: 1.5vw;
-    }
 
     #tipo p {
         font-size: 1.5vw;

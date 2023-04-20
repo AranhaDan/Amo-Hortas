@@ -73,13 +73,13 @@ padding-bottom: 170px;
 #tipo h2 {
 text-align: center;
 color: #61F754 ;
-padding-top: 30px ;
+padding-top: 60px ;
 padding-bottom: 30px;
 }
 
 #tipo p {
     padding: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
     font-size: 3vw;
     text-align: center;
     color: white;
@@ -124,7 +124,7 @@ padding-bottom: 30px;
 footer {
     background-color: #2E7528;
     color: white;
-    border-top: 3px solid white;
+    border-top: 3px solid #17C208;
     padding: 10px;
     font-size: 0.8em;
     text-align: center;
