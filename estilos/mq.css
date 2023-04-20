@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    #tipo {
+        display: flex;
+    }
+
+    #trad, #dome, #mini {
+        width: 33vw;
+    }
+
+    #intr {
+    font-size: 1.5vw;
+    }
+
+    #tipo p {
+        font-size: 1.5vw;
+    }
+
+    #blog > p {
+        color: white;
+        padding-top: 25vh;
+    }
+    
+}
